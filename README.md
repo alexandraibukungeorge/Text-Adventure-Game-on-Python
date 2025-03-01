@@ -1,12 +1,17 @@
-Overview
+Avengers-Themed Text Adventure
+I set out to challenge myself by building a fully text-based adventure game centered on the iconic Avengers universe. The goal was to apply rigorous Python coding principles while crafting an immersive narrative experience that would draw players into each stage of the story.
 
-As part of my Masters in Business Analytics program, I was tasked with designing a text-based adventure game. To make it exciting, I decided to incorporate elements from "The Avengers" franchise, creating an engaging and interactive experience for players.
+Project Highlights
 
-Conditions for the Executable Script:
+Independently Modular Stages: I split the gameplay into at least three distinct stages, ensuring none shared variables or passed state between them. This design underscores my ability to structure and isolate code segments—key skills in data engineering and production-level software.
+No Global Variables & No OOP: To preserve the game’s independence across stages, I enforced a strict “no global variables” rule and avoided classes altogether. This approach taught me to rely on functions alone for logic flow and data handling, demonstrating my knack for creative problem-solving under specific constraints.
+Dynamic Text Manipulation & Flow Control: The game draws heavily on Python’s core features, including strings, conditionals, loops, and error handling. By orchestrating user interactions and implementing error-trapping in real-time, I showcased the same critical thinking that I bring to data modeling or regression tasks.
+User Experience & Storytelling: With a concise storyline (under 300 words), I managed to build player engagement by weaving in references to Avengers characters and missions. This reflects my ability to combine technical execution with user-focused design—valuable for building intuitive dashboards, analytics pipelines, or customer-facing apps.
 
-1. Independence of Stages: The game features at least three stages, each independent of the others.
-2. No Global Variables: The use of global variables is prohibited to maintain stage independence.
-3. No Object-Oriented Programming: The game must rely solely on user-defined functions without utilizing class structures or other object-oriented programming constructs.
-4. No Argument Passing Between Stages: Stages cannot inherit arguments from previous stages, ensuring complete independence (e.g., a key found in Stage 1 cannot be used in Stage 2).
-5. Concise Introduction: The game includes a description of no more than 300 words introducing the story, game, and its objective.
-6. Core Python Essentials: The game must utilize these fundamental Python elements - strings and string manipulation, user-defined functions and objects (variables), user input and input handling, conditional and nested conditional statements (if/elif/else), loops (for/while), and error handling (try/except).
+Why It Matters
+This personal project highlights my ability to:
+
+Design Modular Solutions: Writing clean, stage-independent code parallels the practice of building scalable data pipelines.
+Handle Complex Requirements: Managing constraints like “no OOP” and “no global variables” shows my resilience when confronted with strict specs—a crucial trait in any tech environment.
+Integrate Critical Thinking: Identifying logical pathways in a branching narrative game translates well into analyzing patterns, performing portfolio analyses, and conducting forecasts for data-driven business decisions.
+By taking on a playful challenge, I honed core Python skills, refined my analytical thinking, and demonstrated adaptability—qualities I’m excited to bring to companies looking to build robust, innovative solutions.
