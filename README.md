@@ -9,6 +9,7 @@ Dynamic Text Manipulation & Flow Control: The game draws heavily on Python’s c
 User Experience & Storytelling: With a concise storyline (under 300 words), I managed to build player engagement by weaving in references to Avengers characters and missions. This reflects my ability to combine technical execution with user-focused design—valuable for building intuitive dashboards, analytics pipelines, or customer-facing apps.
 
 Why It Matters
+
 This personal project highlights my ability to:
 
 Design Modular Solutions: Writing clean, stage-independent code parallels the practice of building scalable data pipelines.
