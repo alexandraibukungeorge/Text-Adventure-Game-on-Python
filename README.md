@@ -1,4 +1,4 @@
-Avengers-Themed Text Adventure
+Avengers-Themed Text Adventure Game
 
 I set out to challenge myself by building a fully text-based adventure game centered on the iconic Avengers universe. The goal was to apply rigorous Python coding principles while crafting an immersive narrative experience that would draw players into each stage of the story.
 
